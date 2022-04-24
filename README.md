@@ -27,7 +27,7 @@ Through this project, we hope to make a more wise and informed choice on housing
 - We also learnt and applied Random Forest and XG boost, which are Machine Learning Algorithms not taught in the course 
 - We were able to apply Data science concepts taught in this course, like visualisation tools and tools to evaluate models
 - We learnt how to use APIs, which wasnt taught in the course
-- We also learnt about github and hdb 
+- We also learnt about the usage of github and information about HDB flats 
 
 ## References
 - https://data.gov.sg/dataset/resale-flat-prices
