@@ -15,7 +15,7 @@ Through this project, we hope to make a more wise and informed choice on housing
 
 ## Problem Definiton
  - What are main drivers of HDB resale price
- - What should we look out for to maximise the value when we want to resell our flats
+ - What should we look out for to maximise the value when we BTO
 
 ## Machine Learning Algorithms used
 - K-nearest Neighbours Regressor (Regression)
