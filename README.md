@@ -17,6 +17,10 @@ Through this project, we hope to make a more wise and informed choice on housing
  - What are main drivers of HDB resale price
  - What should we look out for to maximise the value when we BTO
 
+## Datasets
+- HDB housing data set
+- MRT station coordinates
+
 ## Machine Learning Algorithms used
 - K-nearest Neighbours Regressor (Regression)
 - Random Forest (Classification)
