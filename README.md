@@ -17,6 +17,11 @@ Through this project, we hope to make a more wise and informed choice on housing
  - What are main drivers of HDB resale price
  - What should we look out for to maximise the value when we want to resell our flats
 
+## Machine Learning Algorithms used
+- K-nearest Neighbours Regressor (Regression)
+- Random Forest (Classification)
+- XGBoost (Classificaiton)
+
 ## Conclusion
 - Remaining lease has minimum correlation with resale price unexpectedly, so it seems to be less important factor affecting HDB resale prices
 - Lease commence date and floor area is important variables as they have high correlation and linearity with HDB resale price
