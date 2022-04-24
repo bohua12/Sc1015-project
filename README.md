@@ -2,6 +2,7 @@
 
 ## About
 This is our Mini-Project for SC1015 which focuses on finding out the main drivers of HDB resale prices, and how much they affect the resale prices. We not only looked into the common drivers such as lease commence date or flat type, we take other variables like 'distance from mrt' into account.
+
 Do take a look at the powerpoint slides for a detailed walkthrough of our project!
 
 ## Contributors
