@@ -41,6 +41,9 @@ Through this project, we hope to make a more wise and informed choice on housing
 ## Special thanks
 We would like to give appreciation to our Lab TA, Guo Xiao Bao of NTU SCSE for being patient ever responsive to our quieries even beyond office hours and on weekends
 
+## Note
+As the file size of one of the csv file, resale_complete which is required for the jupyter notebook, is beyond the file limit(100mb) accepted by github, it can be download [here](https://drive.google.com/file/d/1x5juTwSOfCsHYiD_a1RrG561uYJYmn5c/view?usp=sharing)
+
 ## References
 - https://data.gov.sg/dataset/resale-flat-prices
 - https://www.singstat.gov.sg/whats-new/latest-news/cpi-highlights
