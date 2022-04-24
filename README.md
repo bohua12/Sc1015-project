@@ -19,8 +19,7 @@ Through this project, we hope to make a more wise and informed choice on housing
 
 ## Datasets
 - [HDB housing data set](https://data.gov.sg/dataset/resale-flat-prices)
-- HDB housing data set
-- MRT station coordinates
+- [MRT station coordinates](https://www.kaggle.com/datasets/yxlee245/singapore-train-station-coordinates)
 
 ## Machine Learning Algorithms used
 - K-nearest Neighbours Regressor (Regression)
