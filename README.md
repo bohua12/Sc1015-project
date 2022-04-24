@@ -11,7 +11,7 @@ This is our Mini-Project for SC1015 which focuses on finding out the main driver
 
 ## Problem Definiton
  - What are main drivers of HDB resale price
- - What should we look out for to maximise the value
+ - What should we look out for to maximise the value when we want to resell our flats
 
 ## Conclusion
 - Remaining lease has minimum correlation with resale price unexpectedly, so it seems to be less important factor affecting HDB resale prices
