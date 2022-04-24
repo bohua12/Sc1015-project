@@ -29,6 +29,9 @@ Through this project, we hope to make a more wise and informed choice on housing
 - We learnt how to use APIs, which wasnt taught in the course
 - We also learnt about the usage of github and information about HDB flats 
 
+## Special thanks
+We would like to give appreciation to our Lab TA, Guo Xiao Bao of NTU SCSE for being patient ever responsive to our quieries even beyond office hours and on weekends
+
 ## References
 - https://data.gov.sg/dataset/resale-flat-prices
 - https://www.singstat.gov.sg/whats-new/latest-news/cpi-highlights
