@@ -9,10 +9,8 @@ This is our Mini-Project for SC1015 which focuses on finding out the main driver
  - @ kimtorl: Expolatory Data Analysis
 
 ## Motivation 
-- As university students, housing will soon be our concern as we graduate and step into workforce.
-- HDB BTO flats, is seen as an affordable option, and is good investment when we resell it in the future
-
-- Through this project, we hope to make a more wise and informed choice on housing, by investigating more about HDB resale price so that we can maximise our profits when we re-sell the HDB flats after we BTO
+As university students, housing will soon be our concern as we graduate and step into workforce. HDB BTO flats is seen as an affordable option, and is good investment when we resell it in the future
+Through this project, we hope to make a more wise and informed choice on housing, by investigating more about HDB resale price so that we can maximise our profits when we re-sell the HDB flats after we BTO
 
 
 ## Problem Definiton
