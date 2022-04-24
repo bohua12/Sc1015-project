@@ -6,9 +6,9 @@ This is our Mini-Project for SC1015 which focuses on finding out the main driver
 
 ## Contributors
 --------
-@ bohua12
-@ Shreyas-hacker
-@ kimtorl
+ - @ bohua12
+ - @ Shreyas-hacker
+ - @ kimtorl
 
 
 ## Problem Definiton
