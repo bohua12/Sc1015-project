@@ -18,6 +18,7 @@ Through this project, we hope to make a more wise and informed choice on housing
  - What should we look out for to maximise the value when we BTO
 
 ## Datasets
+- [HDB housing data set](https://data.gov.sg/dataset/resale-flat-prices)
 - HDB housing data set
 - MRT station coordinates
 
